@@ -1,8 +1,8 @@
 import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import PinDetail from "./pages/PinDetail";
-import Landing from "./pages/landing";
-import NavBar from "./pages/NavBar";
+import PinDetail from "../pages/PinDetail";
+import Landing from "../pages/landing";
+import NavBar from "../pages/NavBar";
 
 const App = () => {
   return (
